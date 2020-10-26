@@ -79,13 +79,13 @@ export default {
 
 <style scoped>
 .project.complete{
-  border-left: 4px solid lightseagreen;
+  border-left: 3px solid lightseagreen;
 }
 .project.ongoing{
-  border-left: 4px solid greenyellow;
+  border-left: 3px solid greenyellow;
 }
 .project.overdue{
-  border-left: 4px solid orangered;
+  border-left: 3px solid orangered;
 }
 .status.complete{
   color:lightseagreen;
